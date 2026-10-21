@@ -1,0 +1,14 @@
+# downloaded / generated - rebuilt on the user's machine
+cache/
+__pycache__/
+*.pyc
+dist/
+build/
+*.spec
+# machine-specific shortcut
+*.lnk
+# portable build's personal data (settings, keys, covers, patches)
+data/
+
+# UnRAR.exe is copied in by tools/build_portable.bat (redistributable, WinRAR licence 3a)
+assets/tools/

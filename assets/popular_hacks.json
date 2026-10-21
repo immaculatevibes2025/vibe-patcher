@@ -1,0 +1,27 @@
+[
+ {
+  "title": "A Link to the Past Randomizer (ALttPR)",
+  "game": "The Legend of Zelda: A Link to the Past",
+  "url": "https://alttpr.com/",
+  "desc": "Popular randomizer - generate a seed on the website from your own ROM."
+ },
+ {
+  "title": "Super Metroid VARIA Randomizer",
+  "game": "Super Metroid",
+  "url": "https://varia.run/",
+  "desc": "Randomizer, solver and tracker - generate a seed on the website."
+ },
+ {
+  "title": "Final Fantasy IV: Free Enterprise",
+  "game": "Final Fantasy II",
+  "url": "https://alpha.ff4fe.com/",
+  "desc": "Open-world randomizer for FF4 (US: Final Fantasy II) - generate a seed on the website."
+ },
+ {
+  "title": "EarthBound Beginnings Remake (official site)",
+  "game": "EarthBound",
+  "url": "https://ebbr.neocities.org/downloads",
+  "scrape": "https://ebbr.neocities.org/downloads_content.html",
+  "desc": "Official site of the EarthBound Beginnings Remake hack - patches download directly."
+ }
+]
